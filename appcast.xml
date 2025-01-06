@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>tapAI</title>
+        <title>Concon</title>
         <item>
-            <title>0.1</title>
-            <pubDate>Sun, 05 Jan 2025 23:00:28 -0800</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <title>0.2</title>
+            <pubDate>Mon, 06 Jan 2025 00:00:52 -0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yzx21/Concon/releases/download/prod/Concon.dmg" length="2080708" type="application/octet-stream" sparkle:edSignature="HmT5hnF/vRq4nHQasrdbnC0i8aMqBI3iTdfbvgJcG24luVkgczWNR1hLJGHSUZuQV49Kexvqnc6aLFht8t26Cw=="/>
+            <enclosure url="https://github.com/yzx21/Concon/releases/download/prod/Concon.dmg" length="2066186" type="application/octet-stream" sparkle:edSignature="FgS2zSBNhszMiUJrV0a732DznBQtWSNL8kFNljgb15OVA2jjWD70vxu0Y9Eexk7PjM7UYnewgt6vuEb0f9W3BA=="/>
         </item>
     </channel>
 </rss>
