@@ -8,7 +8,7 @@
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://yzx21.github.io./Concon/Concon.dmg" length="5619841" type="application/octet-stream" sparkle:edSignature="LNzbhd4wxlEF0Z/vtmPNRKxXu2G2aPTywp3/Jh5DQVPYLz38vbozG6YQM5A5HvZ/KR+wbgrulMg7pBYTNoUPDQ=="/>
+            <enclosure url="https://github.com/yzx21/Concon/releases/download/prod/Concon.dmg" length="5619841" type="application/octet-stream" sparkle:edSignature="LNzbhd4wxlEF0Z/vtmPNRKxXu2G2aPTywp3/Jh5DQVPYLz38vbozG6YQM5A5HvZ/KR+wbgrulMg7pBYTNoUPDQ=="/>
         </item>
     </channel>
 </rss>
