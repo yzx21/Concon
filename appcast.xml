@@ -3,12 +3,12 @@
     <channel>
         <title>Concon</title>
         <item>
-            <title>1.6.17</title>
-            <pubDate>Tue, 22 Apr 2025 18:08:26 -0700</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.6.17</sparkle:shortVersionString>
+            <title>1.6.18</title>
+            <pubDate>Sat, 12 Jul 2025 23:20:40 -0700</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.6.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yzx21/Concon/releases/download/prod/Concon.dmg" length="5712375" type="application/octet-stream" sparkle:edSignature="Xbph/PtoM6ezCooZT9Zgeyi60SYvU90XlW7dlYauCN+ej2lYUxCiROC1kcWZyKxjCvLb27GwEEVGFIQT9LgOBg=="/>
+            <enclosure url="https://github.com/yzx21/Concon/releases/download/prod/Concon.dmg" length="4009129" type="application/octet-stream" sparkle:edSignature="kJwYT5KE74cKDxYkGGhPQjsU4feSPjfDCOduYX7Kiw6sGU8LoI3hehH7iTVL/PdVoFmOYBxKZhSqHAJ8fi1wBA=="/>
         </item>
     </channel>
 </rss>
